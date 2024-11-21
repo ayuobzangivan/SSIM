@@ -88,6 +88,6 @@ Applications
     Compare real and predicted images in GANs or other deep learning models.
     Quantify image quality in preprocessing pipelines.
 
-License
+## License
 
 This project is open-source and available under the MIT License. See the LICENSE file for details.
